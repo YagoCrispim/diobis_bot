@@ -1,0 +1,7 @@
+{
+  "watch": ["src"],
+  "ext": ".ts,.js",
+  "ignore": [],
+  "explanation-about:--files": "Load files, include and exclude from tsconfig.json on startup. This may avoid certain typechecking failures.",
+  "exec": "ts-node --files ./src/index.ts"
+}

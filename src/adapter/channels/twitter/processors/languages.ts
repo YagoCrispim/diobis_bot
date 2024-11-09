@@ -1,0 +1,22 @@
+//? REVIEW: Is this the best strategy to get the job language?
+export const languages: string[] = [
+  'python',
+  'typescript',
+  'javascript',
+  'node',
+  'java',
+  'php',
+  'ruby',
+  'c#',
+  'rust',
+  'kotlin',
+  'swift',
+  'scala',
+  'elixir',
+  'clojure',
+  'erlang',
+  'perl',
+  'lua',
+  'matlab',
+  'sql',
+];
